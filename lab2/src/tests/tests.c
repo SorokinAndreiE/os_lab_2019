@@ -1,7 +1,6 @@
 #include <CUnit/Basic.h>
 #include <stdio.h>
 #include <string.h>
-
 #include "revert_string.h"
 
 void testRevertString(void) {
