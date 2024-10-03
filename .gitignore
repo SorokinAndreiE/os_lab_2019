@@ -2,8 +2,4 @@
      *.a
      *.so
      *.bin
-     lab2/src/revert_string/dynamic_program 
-     lab2/src/swap/my_program 
-     lab2/src/revert_string/static_program
-     lab2/src/revert_string/revert_string
-     lab2/src/tests/tests
+   
